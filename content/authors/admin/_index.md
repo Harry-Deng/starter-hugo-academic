@@ -38,6 +38,6 @@ email: ""
 ---
 I am Yimo Deng, an **Information Security** major studying at the Software College of Northeastern University, China. I have aspirations of becoming a scientific researcher in the future.
 
-My research interests include **network security** and **wireless networks**. Specifically, I am interested in exploring the fields of **security and privacy**, with a focus on developing secure systems and protect the privacy in mobile communications. Currently, my research delves into the applications of **distributed machine learning** in VANETs.
+My research interests include **network security** and **wireless networks**. Specifically, I am interested in exploring the fields of **security and privacy**, with a focus on developing secure systems and protect the privacy in mobile communications. Currently, my research delves into the applications of **distributed machine learning** in **VANETs**.
 
 {style="text-align: justify;"}
