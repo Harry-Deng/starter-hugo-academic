@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: dengemo.neu@gmail.com
+    link: /#contact
   - icon: github
     icon_pack: fab
     link: https://github.com/Harry-Deng
