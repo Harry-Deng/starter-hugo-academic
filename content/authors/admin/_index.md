@@ -19,11 +19,6 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-  - display:
-      header: false
-    icon_pack: far
-    icon: blog
-    link: www.dengemo.com
 organizations:
   - name: Northeastern University
     url: http://www.neu.edu.cn/
