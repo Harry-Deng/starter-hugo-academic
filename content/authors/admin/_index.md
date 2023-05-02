@@ -8,6 +8,7 @@ interests:
   - Computer Networks
   - Privacy and Security
   - Vehicular Networks
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
