@@ -1,6 +1,7 @@
 ---
 title: Yimo Deng 邓一默
 role: Undergraduate Students
+avatar_filename: 1683016686894.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
