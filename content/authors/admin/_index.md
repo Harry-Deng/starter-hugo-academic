@@ -4,9 +4,9 @@ role: Undergraduate Students
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Networks
+  - Privacy and Security
+  - Vehicular Networks
 social:
   - icon: envelope
     icon_pack: fas
