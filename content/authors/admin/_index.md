@@ -38,7 +38,7 @@ education:
   courses:
     - course: BEng in Information Security
       institution: Northeastern University
-      year: 2022
+      year: 2024
 superuser: true
 status:
   icon: ☕️
