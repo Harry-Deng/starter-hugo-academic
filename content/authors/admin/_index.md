@@ -39,6 +39,4 @@ I am Yimo Deng, an **Information Security** major studying at the Software Colle
 
 My research interests include **network security** and **wireless networks**. Specifically, I am interested in exploring the fields of **security and privacy**, with a focus on developing secure systems and protect the privacy in mobile communications. Currently, my research delves into the applications of **distributed machine learning** in VANETs.
 
-In addition to my academic pursuits, I am passionate about **software development**. I have completed several interesting projects, including an encryption and decryption software and a packet-sniffing software similar to Wireshark. Engaging in scientific research and development brings me great joy.
-
 {style="text-align: justify;"}
