@@ -36,15 +36,9 @@ organizations:
     url: http://www.neu.edu.cn/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BEng in Information Security
+      institution: Northeastern University
+      year: 2022
 superuser: true
 status:
   icon: ☕️
