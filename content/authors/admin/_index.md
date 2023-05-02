@@ -5,11 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include network security and privacy in wireless
   networks.
 interests:
-  - Vehicular Networks
   - Computer Networks
   - Privacy and Security
+  - Vehicular Networks
   - Machine Learning
-  - ""
 social:
   - icon: envelope
     icon_pack: fas
